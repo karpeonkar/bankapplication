@@ -1,1 +1,1 @@
-This is my own separate project which was completed after completing full stack web development course. In this project I built an application for bank which is capable of generating accounts of users and save data into database. I build features in application which can help user to credit, debit and transfer money to another account.
+ 
